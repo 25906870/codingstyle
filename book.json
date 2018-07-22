@@ -1,0 +1,28 @@
+{
+  "title": "coding style",
+  "description": "coding style",
+  "language": "zh-hans",
+  "plugins": [
+    "disqus",
+    "github",
+    "editlink",
+    "prism",
+    "-highlight",
+    "-baidu",
+    "splitter",
+    "-sitemap",
+    "emphasize"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "codingstyle"
+    },
+    "github": {
+      "url": ""
+    },
+    "editlink": {
+      "base": "",
+      "label": "编辑本页"
+    }
+  }
+}
